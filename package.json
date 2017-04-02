@@ -4,6 +4,10 @@
     "email": "lucasconstantinosilva@gmail.com"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeybaker/storybook-addon-smart-knobs.git"
+  },
   "description": "Automatically created knobs for storybook.",
   "devDependencies": {
     "@kadira/storybook": "^2.25.0",
